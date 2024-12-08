@@ -3,9 +3,12 @@
 header {
     background-color: #ffcccc;
     overflow: hidden;
+    width: 1000px;
+
 }
 #wrapper {
     display: flex;
+    width: 1000px;
 }
 #main  {
     background-color: #ccffcc;
@@ -23,4 +26,5 @@ footer {
     clear: both;
     background-color:#ffccff;
     overflow: hidden;
+    width: 1000px;
 }
